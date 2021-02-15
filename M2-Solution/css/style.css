@@ -8,6 +8,7 @@ html {
 header {
     margin: 5% 0;
 }
+
 h1 {
     text-align: center;
     font-size: 175%;
@@ -15,6 +16,7 @@ h1 {
 }
 
 /* Body */
+
 .container {
     display: flex;
     justify-content: center;
@@ -73,18 +75,14 @@ h1 {
         width: 48.4%;
         column-gap: 15px;
     }
-
 }
 
 /* Media Queries for Phone */
 
 @media only screen and (max-width: 767px) {
     .container {
-        background-color: cornsilk;
         flex-wrap: wrap;
         row-gap: 20px;
         padding: 0 10%;
     }
-
-    
 }
