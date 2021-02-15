@@ -8,7 +8,11 @@ I'm known for talking tech in plain English on [SheGeeks.net](https://shegeeks.n
 
 ### Socials
 [Blog](https://shegeeks.net)
+
 [Twitter](https://twitter.com/corvida)
+
 [Instagram](https://instagram.com/corvida)
+
 [Birding Instagram](https://instagram.com/birdingwhileblack)
+
 [Nature Photography](https://shegeeks.net/prints)
